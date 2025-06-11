@@ -1,0 +1,39 @@
+[0611/130655:WARNING:pe_image_reader.cc(144)] CodeView debug entry of unexpected size in C:\WINDOWS\System32\ntdll.dll
+[0611/130655:WARNING:pe_image_reader.cc(161)] encountered non-7.0 CodeView debug record in C:\WINDOWS\system32\kernel32.dll
+[0611/130655:WARNING:pe_image_reader.cc(144)] CodeView debug entry of unexpected size in C:\WINDOWS\system32\RPCRT4.dll
+[0611/130655:WARNING:pe_image_reader.cc(161)] encountered non-7.0 CodeView debug record in C:\WINDOWS\system32\ADVAPI32.dll
+[0611/130655:WARNING:pe_image_reader.cc(144)] CodeView debug entry of unexpected size in C:\WINDOWS\system32\msvcrt.dll
+[0611/130655:WARNING:pe_image_reader.cc(144)] CodeView debug entry of unexpected size in C:\WINDOWS\system32\USER32.dll
+[0611/130655:WARNING:pe_image_reader.cc(144)] CodeView debug entry of unexpected size in C:\WINDOWS\system32\GDI32.dll
+[0611/130655:WARNING:pe_image_reader.cc(161)] encountered non-7.0 CodeView debug record in C:\WINDOWS\system32\SHLWAPI.dll
+[0611/130655:WARNING:pe_image_reader.cc(161)] encountered non-7.0 CodeView debug record in C:\WINDOWS\system32\VERSION.dll
+[0611/130655:WARNING:pe_image_reader.cc(144)] CodeView debug entry of unexpected size in C:\WINDOWS\System32\WINMM.dll
+[0611/130655:WARNING:pe_image_reader.cc(161)] encountered non-7.0 CodeView debug record in C:\WINDOWS\system32\USERENV.dll
+[0611/130655:WARNING:pe_image_reader.cc(144)] CodeView debug entry of unexpected size in C:\WINDOWS\System32\WINSTA.dll
+[0611/130655:WARNING:pe_image_reader.cc(161)] encountered non-7.0 CodeView debug record in C:\WINDOWS\System32\WTSAPI32.dll
+[0611/130655:WARNING:pe_image_reader.cc(161)] encountered non-7.0 CodeView debug record in C:\WINDOWS\system32\SHELL32.dll
+[0611/130655:WARNING:pe_image_reader.cc(161)] encountered non-7.0 CodeView debug record in C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.0.0_x-ww_1382d70a\comctl32.dll
+[0611/130655:WARNING:pe_image_reader.cc(161)] encountered non-7.0 CodeView debug record in C:\WINDOWS\system32\comctl32.dll
+[0611/130655:WARNING:pe_image_reader.cc(144)] CodeView debug entry of unexpected size in C:\WINDOWS\System32\USP10.dll
+[0611/130655:WARNING:pe_image_reader.cc(144)] CodeView debug entry of unexpected size in C:\WINDOWS\System32\PSAPI.DLL
+[0611/130655:WARNING:pe_image_reader.cc(144)] CodeView debug entry of unexpected size in C:\WINDOWS\system32\ole32.dll
+[0611/130655:WARNING:pe_image_reader.cc(161)] encountered non-7.0 CodeView debug record in C:\WINDOWS\system32\OLEAUT32.dll
+[0611/130655:WARNING:pe_image_reader.cc(144)] CodeView debug entry of unexpected size in C:\WINDOWS\System32\credui.dll
+[0611/130655:WARNING:pe_image_reader.cc(161)] encountered non-7.0 CodeView debug record in C:\WINDOWS\System32\NETAPI32.dll
+[0611/130655:WARNING:pe_image_reader.cc(144)] CodeView debug entry of unexpected size in C:\WINDOWS\System32\HID.DLL
+[0611/130655:WARNING:pe_image_reader.cc(144)] CodeView debug entry of unexpected size in C:\WINDOWS\System32\OLEACC.dll
+[0611/130655:WARNING:pe_image_reader.cc(161)] encountered non-7.0 CodeView debug record in C:\WINDOWS\System32\Secur32.dll
+[0611/130655:WARNING:pe_image_reader.cc(144)] CodeView debug entry of unexpected size in C:\WINDOWS\system32\MSASN1.dll
+[0611/130655:WARNING:pe_image_reader.cc(161)] encountered non-7.0 CodeView debug record in C:\WINDOWS\system32\CRYPT32.dll
+[0611/130655:WARNING:pe_image_reader.cc(161)] encountered non-7.0 CodeView debug record in C:\WINDOWS\System32\WINTRUST.dll
+[0611/130655:WARNING:pe_image_reader.cc(161)] encountered non-7.0 CodeView debug record in C:\WINDOWS\system32\comdlg32.dll
+[0611/130655:WARNING:pe_image_reader.cc(144)] CodeView debug entry of unexpected size in C:\WINDOWS\System32\ODBC32.dll
+[0611/130655:WARNING:pe_image_reader.cc(161)] encountered non-7.0 CodeView debug record in C:\WINDOWS\System32\odbcbcp.dll
+[0611/130655:WARNING:pe_image_reader.cc(144)] CodeView debug entry of unexpected size in C:\WINDOWS\System32\pdh.dll
+[0611/130655:WARNING:pe_image_reader.cc(161)] encountered non-7.0 CodeView debug record in C:\WINDOWS\System32\WS2HELP.dll
+[0611/130655:WARNING:pe_image_reader.cc(144)] CodeView debug entry of unexpected size in C:\WINDOWS\System32\WS2_32.dll
+[0611/130655:WARNING:pe_image_reader.cc(144)] CodeView debug entry of unexpected size in C:\WINDOWS\System32\DNSAPI.dll
+[0611/130655:WARNING:pe_image_reader.cc(161)] encountered non-7.0 CodeView debug record in C:\WINDOWS\system32\WLDAP32.dll
+[0611/130655:WARNING:pe_image_reader.cc(161)] encountered non-7.0 CodeView debug record in C:\WINDOWS\System32\NTDSAPI.dll
+[0611/130655:WARNING:pe_image_reader.cc(161)] encountered non-7.0 CodeView debug record in C:\WINDOWS\System32\NTMARTA.DLL
+[0611/130655:WARNING:pe_image_reader.cc(144)] CodeView debug entry of unexpected size in C:\WINDOWS\System32\IMM32.dll

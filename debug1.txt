@@ -1,0 +1,170 @@
+Microsoft (R) Windows Debugger Version 6.12.0002.633 X86
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+CommandLine: "C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\basilisk.exe"
+Symbol search path is: *** Invalid ***
+****************************************************************************
+* Symbol loading may be unreliable without a symbol search path.           *
+* Use .symfix to have the debugger choose a symbol path.                   *
+* After setting your symbol path, use .reload to refresh symbol locations. *
+****************************************************************************
+Executable search path is: 
+ModLoad: 00400000 00438000   basilisk.exe
+ModLoad: 77f50000 77ff9000   ntdll.dll
+ModLoad: 77e60000 77f45000   C:\WINDOWS\system32\kernel32.dll
+ModLoad: 10000000 10035000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\mozglue.dll
+ModLoad: 002f0000 00301000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\kernelxp.dll
+ModLoad: 77dd0000 77e5b000   C:\WINDOWS\system32\ADVAPI32.dll
+ModLoad: 77cc0000 77d35000   C:\WINDOWS\system32\RPCRT4.dll
+ModLoad: 00310000 00381000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\MSVCP140.dll
+ModLoad: 00390000 003a4000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\VCRUNTIME140.dll
+ModLoad: 003b0000 003b4000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-crt-runtime-l1-1-0.dll
+ModLoad: 00440000 00521000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\ucrtbase.dll
+ModLoad: 003c0000 003c3000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-core-string-l1-1-0.dll
+ModLoad: 003d0000 003d3000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-core-errorhandling-l1-1-0.dll
+ModLoad: 003e0000 003e3000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-core-timezone-l1-1-0.dll
+ModLoad: 003f0000 003f4000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-core-file-l1-1-0.dll
+ModLoad: 00530000 00533000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-core-namedpipe-l1-1-0.dll
+ModLoad: 00540000 00543000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-core-handle-l1-1-0.dll
+ModLoad: 00550000 00553000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-core-file-l2-1-0.dll
+ModLoad: 00560000 00563000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-core-heap-l1-1-0.dll
+ModLoad: 00570000 00573000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-core-libraryloader-l1-1-0.dll
+ModLoad: 00580000 00583000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-core-synch-l1-1-0.dll
+ModLoad: 00590000 00593000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-core-processthreads-l1-1-0.dll
+ModLoad: 005a0000 005a3000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-core-processenvironment-l1-1-0.dll
+ModLoad: 005b0000 005b3000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-core-datetime-l1-1-0.dll
+ModLoad: 005c0000 005c3000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-core-localization-l1-2-0.dll
+ModLoad: 005d0000 005d3000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-core-sysinfo-l1-1-0.dll
+ModLoad: 005e0000 005e3000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-core-synch-l1-2-0.dll
+ModLoad: 005f0000 005f3000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-core-console-l1-1-0.dll
+ModLoad: 00600000 00603000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-core-debug-l1-1-0.dll
+ModLoad: 00610000 00613000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-core-processthreads-l1-1-1.dll
+ModLoad: 00620000 00623000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-core-file-l1-2-0.dll
+ModLoad: 00630000 00633000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-core-profile-l1-1-0.dll
+ModLoad: 00640000 00643000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-core-memory-l1-1-0.dll
+ModLoad: 00650000 00653000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-core-util-l1-1-0.dll
+ModLoad: 00660000 00663000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-core-rtlsupport-l1-1-0.dll
+ModLoad: 00670000 00673000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-core-interlocked-l1-1-0.dll
+ModLoad: 00680000 00683000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-crt-heap-l1-1-0.dll
+ModLoad: 00690000 00694000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-crt-string-l1-1-0.dll
+ModLoad: 006a0000 006a4000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-crt-stdio-l1-1-0.dll
+ModLoad: 006b0000 006b4000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-crt-convert-l1-1-0.dll
+ModLoad: 006c0000 006c3000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-crt-locale-l1-1-0.dll
+ModLoad: 006d0000 006d3000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-crt-filesystem-l1-1-0.dll
+ModLoad: 006e0000 006e3000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-crt-time-l1-1-0.dll
+ModLoad: 006f0000 006f3000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-crt-environment-l1-1-0.dll
+ModLoad: 00700000 00705000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-crt-math-l1-1-0.dll
+ModLoad: 00710000 00713000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-crt-utility-l1-1-0.dll
+(920.924): Break instruction exception - code 80000003 (first chance)
+eax=77fc6340 ebx=7ffdf000 ecx=00000007 edx=77f77080 esi=00211eb4 edi=00211eb4
+eip=77f7f570 esp=001bfb38 ebp=001bfc2c iopl=0         nv up ei pl nz na po nc
+cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00000202
+*** ERROR: Symbol file could not be found.  Defaulted to export symbols for ntdll.dll - 
+ntdll!DbgBreakPoint:
+77f7f570 cc              int     3
+0:000> g
+ModLoad: 5cb70000 5cb93000   C:\WINDOWS\System32\ShimEng.dll
+ModLoad: 71590000 71601000   C:\WINDOWS\AppPatch\AcLayers.DLL
+ModLoad: 77d40000 77dcd000   C:\WINDOWS\system32\USER32.dll
+ModLoad: 77c70000 77cb0000   C:\WINDOWS\system32\GDI32.dll
+ModLoad: 773d0000 77bc4000   C:\WINDOWS\system32\SHELL32.dll
+ModLoad: 77c10000 77c63000   C:\WINDOWS\system32\msvcrt.dll
+ModLoad: 772d0000 77333000   C:\WINDOWS\system32\SHLWAPI.dll
+ModLoad: 771b0000 772ca000   C:\WINDOWS\system32\ole32.dll
+ModLoad: 75a70000 75b13000   C:\WINDOWS\system32\USERENV.dll
+ModLoad: 73000000 73023000   C:\WINDOWS\System32\WINSPOOL.DRV
+ModLoad: 71610000 7175c000   C:\WINDOWS\AppPatch\AcGenral.DLL
+ModLoad: 76b40000 76b6c000   C:\WINDOWS\System32\WINMM.dll
+ModLoad: 77be0000 77bf4000   C:\WINDOWS\System32\MSACM32.dll
+ModLoad: 77c00000 77c07000   C:\WINDOWS\system32\VERSION.dll
+ModLoad: 5ad70000 5ada4000   C:\WINDOWS\System32\UxTheme.dll
+ModLoad: 71950000 71a34000   C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.0.0_x-ww_1382d70a\comctl32.dll
+ModLoad: 77340000 773cb000   C:\WINDOWS\system32\comctl32.dll
+ModLoad: 01000000 010cd000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\nss3.dll
+ModLoad: 71ad0000 71ad8000   C:\WINDOWS\System32\WSOCK32.dll
+ModLoad: 71ab0000 71ac5000   C:\WINDOWS\System32\WS2_32.dll
+ModLoad: 71aa0000 71aa8000   C:\WINDOWS\System32\WS2HELP.dll
+ModLoad: 00ea0000 00ea5000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\api-ms-win-crt-multibyte-l1-1-0.dll
+ModLoad: 010d0000 0164f000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\mozjs.dll
+ModLoad: 01650000 02443000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\icu63.dll
+ModLoad: 76bf0000 76bfb000   C:\WINDOWS\System32\PSAPI.DLL
+ModLoad: 02450000 02e2a000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\gkmedias.dll
+ModLoad: 72fa0000 72ffa000   C:\WINDOWS\System32\USP10.dll
+ModLoad: 76380000 76385000   C:\WINDOWS\System32\MSIMG32.dll
+ModLoad: 00ec0000 00ecb000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\lgpllibs.dll
+ModLoad: 00ed0000 00ef6000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\VCOMP140.DLL
+ModLoad: 02e30000 02f0d000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\mozsqlite3.dll
+ModLoad: 02f10000 02f63000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\hunspell.dll
+ModLoad: 02f70000 04e68000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\xul.dll
+ModLoad: 76d60000 76d75000   C:\WINDOWS\System32\IPHLPAPI.DLL
+ModLoad: 76de0000 76e06000   C:\WINDOWS\System32\netman.dll
+ModLoad: 76d40000 76d56000   C:\WINDOWS\System32\MPRAPI.dll
+ModLoad: 76e40000 76e6f000   C:\WINDOWS\System32\ACTIVEDS.dll
+ModLoad: 76e10000 76e34000   C:\WINDOWS\System32\adsldpc.dll
+ModLoad: 71c20000 71c6f000   C:\WINDOWS\System32\NETAPI32.dll
+ModLoad: 76f60000 76f8c000   C:\WINDOWS\system32\WLDAP32.dll
+ModLoad: 76b20000 76b35000   C:\WINDOWS\System32\ATL.DLL
+ModLoad: 77120000 771ab000   C:\WINDOWS\system32\OLEAUT32.dll
+ModLoad: 76e80000 76e8d000   C:\WINDOWS\System32\rtutils.dll
+ModLoad: 71bf0000 71c01000   C:\WINDOWS\System32\SAMLIB.dll
+ModLoad: 76670000 76754000   C:\WINDOWS\System32\SETUPAPI.dll
+ModLoad: 76ee0000 76f17000   C:\WINDOWS\System32\RASAPI32.dll
+ModLoad: 76e90000 76ea1000   C:\WINDOWS\System32\rasman.dll
+ModLoad: 76eb0000 76eda000   C:\WINDOWS\System32\TAPI32.dll
+ModLoad: 76f90000 76fa0000   C:\WINDOWS\System32\Secur32.dll
+ModLoad: 76da0000 76dd0000   C:\WINDOWS\System32\WZCSvc.DLL
+ModLoad: 76d30000 76d34000   C:\WINDOWS\System32\WMI.dll
+ModLoad: 76d80000 76d9a000   C:\WINDOWS\System32\DHCPCSVC.DLL
+ModLoad: 76f20000 76f45000   C:\WINDOWS\System32\DNSAPI.dll
+ModLoad: 762c0000 7634a000   C:\WINDOWS\system32\CRYPT32.dll
+ModLoad: 762a0000 762af000   C:\WINDOWS\system32\MSASN1.dll
+ModLoad: 76f50000 76f58000   C:\WINDOWS\System32\WTSAPI32.dll
+ModLoad: 76360000 7636f000   C:\WINDOWS\System32\WINSTA.dll
+ModLoad: 76390000 763aa000   C:\WINDOWS\System32\IMM32.dll
+ModLoad: 76c30000 76c5b000   C:\WINDOWS\System32\WINTRUST.dll
+ModLoad: 76c90000 76cb2000   C:\WINDOWS\system32\IMAGEHLP.dll
+ModLoad: 72550000 7259f000   C:\WINDOWS\System32\pdh.dll
+ModLoad: 763b0000 763f5000   C:\WINDOWS\system32\comdlg32.dll
+ModLoad: 1f7b0000 1f7e1000   C:\WINDOWS\System32\ODBC32.dll
+ModLoad: 1f9b0000 1f9b6000   C:\WINDOWS\System32\odbcbcp.dll
+ModLoad: 1f850000 1f866000   C:\WINDOWS\System32\odbcint.dll
+ModLoad: 76fd0000 77048000   C:\WINDOWS\System32\CLBCATQ.DLL
+ModLoad: 77050000 77115000   C:\WINDOWS\System32\COMRes.dll
+ModLoad: 71a50000 71a8b000   C:\WINDOWS\system32\mswsock.dll
+ModLoad: 71a90000 71a98000   C:\WINDOWS\System32\wshtcpip.dll
+ModLoad: 06810000 0681e000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\browser\components\browsercomps.dll
+ModLoad: 76fb0000 76fb7000   C:\WINDOWS\System32\winrnr.dll
+ModLoad: 06860000 0688a000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\softokn3.dll
+ModLoad: 06890000 068aa000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\nssdbm3.dll
+ModLoad: 08610000 0869e000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\freebl3.dll
+ModLoad: 086a0000 086fc000   C:\Basilisk 52 - G4.8 (May 31, 2025) - for pre-XP SP2 systems\nssckbi.dll
+ModLoad: 73b30000 73b43000   C:\WINDOWS\System32\mscms.dll
+ModLoad: 76200000 76297000   C:\WINDOWS\system32\WININET.dll
+ModLoad: 722b0000 722b5000   C:\WINDOWS\System32\sensapi.dll
+ModLoad: 76fc0000 76fc5000   C:\WINDOWS\System32\rasadhlp.dll
+ModLoad: 76ce0000 76cff000   C:\WINDOWS\System32\NTMARTA.DLL
+[JavaScript Warning: "Key event not available on some keyboard layouts: key=“r” modifiers=“accel,alt” id=“key_toggleReaderMode”" {file: "chrome://browser/content/browser.xul" line: 0}]
+[JavaScript Warning: "Key event not available on some keyboard layouts: key=“i” modifiers=“accel,alt,shift” id=“key_browserToolbox”" {file: "chrome://browser/content/browser.xul" line: 0}]
+[JavaScript Warning: "Content Security Policy: Couldn’t parse invalid host 'report-sample'"]
+[JavaScript Warning: "Content Security Policy: Ignoring “'unsafe-inline'” within script-src: ‘strict-dynamic’ specified"]
+[JavaScript Warning: "Content Security Policy: Ignoring “https:” within script-src: ‘strict-dynamic’ specified"]
+[JavaScript Warning: "Content Security Policy: Ignoring “http:” within script-src: ‘strict-dynamic’ specified"]
+[JavaScript Warning: "Empty string passed to getElementById()." {file: "https://www.google.com/?gws_rd=ssl" line: 18}]
+[JavaScript Warning: "Empty string passed to getElementById()." {file: "https://www.google.com/xjs/_/js/k=xjs.hd.en.yQaIh7Q4jhY.es5.O/am=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAACAEAAAAAAAQACQAAAAAAAAAAAAACIAAQQAAAAAAAAEAAAAAAwBACAABgAAAAAAAABAABAAAAAADIA_AyMAAAESAAAAAAAAAAC4AAAiAAAAUgAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAgAIAAAAAAAAgAAAAAAAAACAAAAgQAAAAAAAAAAAAAAAAAIAeAAAAAAAAAAAAAAAAAAAAEAEAAMAQxAEAAAAAAACAHgACDxhSUwAAAAAAAAAAAAAAAAAAAQqCuZBAQIAAAAAAAAAAAAAAAAAAAAAACGliIQE/d=1/ed=1/dg=3/br=1/rs=ACT90oE2JzjzsZkk2HsXqlz_FR-kSz0WeA/ee=ALeJib:B8gLwd;AfeaP:TkrAjf;BMxAGc:E" line: 164}]
+ModLoad: 72d20000 72d29000   C:\WINDOWS\System32\wdmaud.drv
+ModLoad: 72d20000 72d29000   C:\WINDOWS\System32\wdmaud.drv
+ModLoad: 72d10000 72d18000   C:\WINDOWS\System32\msacm32.drv
+ModLoad: 77bd0000 77bd7000   C:\WINDOWS\System32\midimap.dll
+[JavaScript Warning: "Content Security Policy: Couldn’t process unknown directive ‘require-trusted-types-for’"]
+ModLoad: 0ffd0000 0fff2000   C:\WINDOWS\System32\rsaenh.dll
+[JavaScript Warning: "Content Security Policy: This site (https://www.mozilla.org) has a Report-Only policy without a report URI. CSP will not block and cannot report violations of this policy."]
+ModLoad: 75f40000 75f5d000   C:\WINDOWS\system32\appHelp.dll
+ModLoad: 76620000 7666e000   C:\WINDOWS\System32\cscui.dll
+ModLoad: 76600000 7661b000   C:\WINDOWS\System32\CSCDLL.dll
+(920.b20): Access violation - code c0000005 (first chance)
+First chance exceptions are reported before any exception handling.
+This exception may be expected and handled.
+eax=00000000 ebx=00000588 ecx=00000080 edx=00fbdabc esi=00f10800 edi=01079000
+eip=71ad1020 esp=06e7d384 ebp=06e7d5b8 iopl=0         nv up ei pl zr na pe nc
+cs=001b  ss=0023  ds=0023  es=0023  fs=0038  gs=0000             efl=00010246
+71ad1020 ??              ???
